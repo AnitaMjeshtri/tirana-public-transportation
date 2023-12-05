@@ -70,4 +70,4 @@ if __name__ == '__main__':
     # readFromFile("L8C_SaukiVjetër_Qendër.xml", "L8C_SaukiVjetër_Qendër.json")
     # readFromFile("L3A_Astir_SensiOrar.xml", "L3A_Astir_SensiOrar.json")
     # readFromFile("L8B_Sanatorium_Qendër.xml", "L8B_Sanatorium_Qendër.json")
-    readFromFile("L13_TiranaeRe(Sensi Antiorar).xml", "L13_TiranaeRe(Sensi Antiorar).json")
+    readFromFile("xmlFiles/L13_TiranaeRe(Sensi Antiorar).xml", "jsonFiles/L13_TiranaeRe(Sensi Antiorar).json")
