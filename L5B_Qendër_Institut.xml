@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (585999 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="8324455" visible="true" version="68" changeset="141785295" timestamp="2023-09-26T17:32:53Z" user="donovaly" uid="1730904">
+  <member type="node" ref="5297635245" role="stop"/>
+  <member type="node" ref="4437431032" role="platform"/>
+  <member type="node" ref="5297403655" role="stop"/>
+  <member type="node" ref="4643857693" role="platform"/>
+  <member type="node" ref="5297403653" role="stop"/>
+  <member type="node" ref="5297403654" role="platform"/>
+  <member type="node" ref="5297403651" role="stop"/>
+  <member type="node" ref="5297403652" role="platform"/>
+  <member type="node" ref="5330787339" role="stop"/>
+  <member type="node" ref="5330787340" role="platform"/>
+  <member type="node" ref="5333329262" role="platform"/>
+  <member type="node" ref="6333089774" role="stop"/>
+  <member type="node" ref="6333089775" role="platform"/>
+  <member type="node" ref="5340962797" role="stop"/>
+  <member type="node" ref="5340962798" role="platform"/>
+  <member type="node" ref="5340962796" role="stop"/>
+  <member type="node" ref="4561279192" role="platform"/>
+  <member type="node" ref="5340962795" role="stop"/>
+  <member type="node" ref="4643653589" role="platform"/>
+  <member type="node" ref="5340962794" role="stop"/>
+  <member type="node" ref="4507345254" role="platform"/>
+  <member type="node" ref="4551141139" role="stop"/>
+  <member type="node" ref="10906083591" role="platform"/>
+  <member type="node" ref="11200941373" role="stop"/>
+  <member type="node" ref="11200941381" role="stop"/>
+  <member type="node" ref="11200941382" role="platform"/>
+  <member type="node" ref="5297635245" role="start"/>
+  <member type="way" ref="553464729" role=""/>
+  <member type="way" ref="670005937" role=""/>
+  <member type="way" ref="842597616" role=""/>
+  <member type="way" ref="173430972" role=""/>
+  <member type="way" ref="459248047" role=""/>
+  <member type="way" ref="768892685" role=""/>
+  <member type="way" ref="459205972" role=""/>
+  <member type="way" ref="459205968" role=""/>
+  <member type="way" ref="173430970" role=""/>
+  <member type="way" ref="459248049" role=""/>
+  <member type="way" ref="459205964" role=""/>
+  <member type="way" ref="674597415" role=""/>
+  <member type="way" ref="1174893170" role=""/>
+  <member type="way" ref="549166141" role=""/>
+  <member type="way" ref="457941830" role=""/>
+  <member type="way" ref="458265889" role=""/>
+  <member type="way" ref="733053949" role=""/>
+  <member type="way" ref="1160388268" role=""/>
+  <member type="way" ref="1007714012" role=""/>
+  <member type="way" ref="1160756436" role=""/>
+  <member type="way" ref="1161772136" role=""/>
+  <member type="way" ref="1173812862" role=""/>
+  <member type="way" ref="999683610" role=""/>
+  <member type="way" ref="135174656" role=""/>
+  <member type="way" ref="37232036" role=""/>
+  <member type="way" ref="730335711" role=""/>
+  <member type="way" ref="458265862" role=""/>
+  <member type="way" ref="1162042516" role=""/>
+  <member type="way" ref="458265872" role=""/>
+  <member type="way" ref="458265871" role=""/>
+  <member type="way" ref="458265870" role=""/>
+  <member type="way" ref="1173824414" role=""/>
+  <member type="way" ref="1173824416" role=""/>
+  <member type="way" ref="458265863" role=""/>
+  <member type="way" ref="28098412" role=""/>
+  <member type="way" ref="768892671" role=""/>
+  <member type="way" ref="28098415" role=""/>
+  <member type="way" ref="1211060330" role=""/>
+  <member type="way" ref="1174627673" role=""/>
+  <member type="node" ref="5340962794" role="start"/>
+  <tag k="from" v="Qendër"/>
+  <tag k="name" v="Bus L5B: Qendër =&gt; Institut"/>
+  <tag k="network" v="Tirana Bus"/>
+  <tag k="official_name" v="Linja Nr. 5/A &quot;Ish Kombinati i Autotraktorëve – Institut&quot;"/>
+  <tag k="operator" v="Bashkia Tiranë"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="L5B"/>
+  <tag k="route" v="bus"/>
+  <tag k="short_name" v="Institut;Ish Kombinati i Autotraktorëve"/>
+  <tag k="to" v="Institut"/>
+  <tag k="type" v="route"/>
+  <tag k="via" v="Sheshi Karl Topia;Lapraka"/>
+ </relation>
+</osm>

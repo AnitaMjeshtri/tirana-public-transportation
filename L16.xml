@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (552274 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="7840512" visible="true" version="45" changeset="141651243" timestamp="2023-09-23T15:56:44Z" user="donovaly" uid="1730904">
+  <member type="node" ref="5297635247" role="stop"/>
+  <member type="node" ref="4714864973" role="platform"/>
+  <member type="node" ref="5297635248" role="stop"/>
+  <member type="node" ref="5039892421" role="platform"/>
+  <member type="node" ref="5304648924" role="stop"/>
+  <member type="node" ref="5304648925" role="platform"/>
+  <member type="node" ref="5304648926" role="stop"/>
+  <member type="node" ref="4371619107" role="platform"/>
+  <member type="node" ref="5304648927" role="stop"/>
+  <member type="node" ref="5304648928" role="platform"/>
+  <member type="node" ref="5304648929" role="stop"/>
+  <member type="node" ref="4479340290" role="platform"/>
+  <member type="node" ref="5304648930" role="stop"/>
+  <member type="node" ref="4479340291" role="platform"/>
+  <member type="node" ref="5304648931" role="stop"/>
+  <member type="node" ref="581363288" role="platform"/>
+  <member type="node" ref="5304615092" role="stop"/>
+  <member type="node" ref="4479340292" role="platform"/>
+  <member type="node" ref="5304615093" role="stop"/>
+  <member type="node" ref="4371563990" role="platform"/>
+  <member type="node" ref="5304615094" role="stop"/>
+  <member type="node" ref="5304615095" role="platform"/>
+  <member type="node" ref="5304585947" role="stop"/>
+  <member type="node" ref="4171179400" role="platform"/>
+  <member type="node" ref="1840275697" role="stop"/>
+  <member type="node" ref="5304585949" role="platform"/>
+  <member type="node" ref="5304559588" role="stop"/>
+  <member type="node" ref="5304559589" role="platform"/>
+  <member type="node" ref="5304559590" role="stop"/>
+  <member type="node" ref="4625621489" role="platform"/>
+  <member type="node" ref="5304559591" role="stop"/>
+  <member type="node" ref="5304559592" role="platform"/>
+  <member type="node" ref="5304542702" role="platform"/>
+  <member type="node" ref="5304542703" role="stop"/>
+  <member type="node" ref="5304542704" role="platform"/>
+  <member type="way" ref="674597422" role=""/>
+  <member type="way" ref="674597420" role=""/>
+  <member type="way" ref="459205957" role=""/>
+  <member type="way" ref="735255371" role=""/>
+  <member type="way" ref="173430408" role=""/>
+  <member type="way" ref="674597417" role=""/>
+  <member type="way" ref="173430404" role=""/>
+  <member type="way" ref="459205966" role=""/>
+  <member type="way" ref="459205967" role=""/>
+  <member type="way" ref="549125847" role=""/>
+  <member type="way" ref="736331978" role=""/>
+  <member type="way" ref="295121383" role=""/>
+  <member type="way" ref="458991898" role=""/>
+  <member type="way" ref="458359876" role=""/>
+  <member type="way" ref="458359896" role=""/>
+  <member type="way" ref="734542391" role=""/>
+  <member type="way" ref="458359897" role=""/>
+  <member type="way" ref="458359898" role=""/>
+  <member type="way" ref="734857311" role=""/>
+  <member type="way" ref="458718974" role=""/>
+  <member type="way" ref="458359899" role=""/>
+  <member type="way" ref="458359902" role=""/>
+  <member type="way" ref="735237484" role=""/>
+  <member type="way" ref="735237485" role=""/>
+  <member type="way" ref="735237486" role=""/>
+  <member type="way" ref="173184635" role=""/>
+  <member type="way" ref="549125848" role=""/>
+  <member type="way" ref="514128980" role=""/>
+  <member type="way" ref="676919276" role=""/>
+  <member type="way" ref="459000215" role=""/>
+  <member type="way" ref="459000210" role=""/>
+  <member type="way" ref="459000207" role=""/>
+  <member type="way" ref="676919277" role=""/>
+  <member type="way" ref="173997355" role=""/>
+  <member type="way" ref="676919278" role=""/>
+  <member type="way" ref="458516472" role=""/>
+  <member type="way" ref="469773337" role=""/>
+  <member type="way" ref="245454181" role=""/>
+  <member type="way" ref="735271877" role=""/>
+  <member type="way" ref="459034660" role=""/>
+  <member type="way" ref="676919281" role=""/>
+  <member type="way" ref="295121379" role=""/>
+  <member type="way" ref="459034630" role=""/>
+  <member type="way" ref="245454183" role=""/>
+  <member type="way" ref="459034631" role=""/>
+  <member type="way" ref="514198842" role=""/>
+  <member type="way" ref="514198843" role=""/>
+  <member type="way" ref="676919286" role=""/>
+  <member type="way" ref="672845656" role=""/>
+  <member type="way" ref="676919290" role=""/>
+  <member type="way" ref="730008917" role=""/>
+  <member type="way" ref="730008916" role=""/>
+  <member type="way" ref="549125849" role=""/>
+  <member type="way" ref="676919291" role=""/>
+  <member type="way" ref="674207434" role=""/>
+  <member type="way" ref="475564057" role=""/>
+  <member type="way" ref="674207444" role=""/>
+  <member type="way" ref="676919292" role=""/>
+  <member type="way" ref="680673532" role=""/>
+  <member type="way" ref="730008919" role=""/>
+  <member type="way" ref="725991927" role=""/>
+  <member type="way" ref="676919293" role=""/>
+  <member type="way" ref="725685146" role=""/>
+  <member type="way" ref="725685145" role=""/>
+  <member type="way" ref="725693518" role=""/>
+  <member type="way" ref="459205890" role=""/>
+  <member type="way" ref="676919294" role=""/>
+  <member type="way" ref="674207431" role=""/>
+  <member type="way" ref="727887337" role=""/>
+  <member type="way" ref="459205865" role=""/>
+  <member type="way" ref="459205946" role=""/>
+  <member type="way" ref="459205863" role=""/>
+  <member type="way" ref="674590463" role=""/>
+  <member type="way" ref="676919295" role=""/>
+  <member type="way" ref="733409117" role=""/>
+  <member type="way" ref="459205944" role=""/>
+  <member type="way" ref="459205859" role=""/>
+  <member type="way" ref="459205953" role=""/>
+  <member type="way" ref="459248052" role=""/>
+  <member type="node" ref="10909563977" role="stop"/>
+  <member type="node" ref="6802868427" role="platform"/>
+  <member type="node" ref="11198605551" role="stop"/>
+  <tag k="from" v="Stacioni i Trenit"/>
+  <tag k="interval" v="15"/>
+  <tag k="name" v="Bus L16: Linja e Gjelbër (Sensi Orar)"/>
+  <tag k="network" v="Tirana Bus"/>
+  <tag k="operator" v="Bashkia Tiranë"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="L16"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Harry Fultz"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

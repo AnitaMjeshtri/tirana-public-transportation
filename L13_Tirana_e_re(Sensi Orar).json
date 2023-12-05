@@ -1,0 +1,711 @@
+[
+  {
+    "type": "node",
+    "id": 5297635245,
+    "lat": 41.3300629,
+    "lon": 19.8166223,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4437431032,
+    "lat": 41.3301319,
+    "lon": 19.8165492,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Muzeu Komb\u00ebtar",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635247,
+    "lat": 41.3351803,
+    "lon": 19.8118409,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4714864973,
+    "lat": 41.3351531,
+    "lon": 19.8118441,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "no",
+      "name": "Harry Fultz",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635248,
+    "lat": 41.3344696,
+    "lon": 19.8075092,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5039892421,
+    "lat": 41.3344381,
+    "lon": 19.8075183,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Don Bosko",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635250,
+    "lat": 41.3355472,
+    "lon": 19.7969937,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635251,
+    "lat": 41.3354572,
+    "lon": 19.7969308,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Kupola",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635252,
+    "lat": 41.3371794,
+    "lon": 19.7922806,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4169403691,
+    "lat": 41.3370782,
+    "lon": 19.7922219,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Pallatet Arabe",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635254,
+    "lat": 41.337884,
+    "lon": 19.785555,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Sheshi Shqiponja",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635257,
+    "lat": 41.3350233,
+    "lon": 19.7833578,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Lumi Lan\u00eb",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635259,
+    "lat": 41.3303803,
+    "lon": 19.7850788,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Nexho Konomi",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635264,
+    "lat": 41.3219201,
+    "lon": 19.7926556,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635265,
+    "lat": 41.3219589,
+    "lon": 19.792716,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Pallati me Shigjeta",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635266,
+    "lat": 41.3207083,
+    "lon": 19.7986739,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635267,
+    "lat": 41.3207671,
+    "lon": 19.7986514,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Selit\u00eb",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635269,
+    "lat": 41.3217087,
+    "lon": 19.8047339,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Vasil Shanto",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635272,
+    "lat": 41.3181739,
+    "lon": 19.8129659,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4391562467,
+    "lat": 41.3182104,
+    "lon": 19.8129557,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Posta 8",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635243,
+    "lat": 41.3192173,
+    "lon": 19.8182142,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 581363300,
+    "lat": 41.3192607,
+    "lon": 19.8181993,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Libri Universitar",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635244,
+    "lat": 41.3228954,
+    "lon": 19.8198409,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3983794253,
+    "lat": 41.3228866,
+    "lon": 19.8197843,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Piramida",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635253,
+    "lat": 41.3379422,
+    "lon": 19.7855175,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10912660064,
+    "lat": 41.335053,
+    "lon": 19.7833069,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10916930184,
+    "lat": 41.3262553,
+    "lon": 19.7872433,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "no",
+      "fixme": "position changes frequently because of road construction -> set position when construction is done",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Kristaq Dollaku",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "waste_basket": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10916930185,
+    "lat": 41.3303669,
+    "lon": 19.7849515,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7798115485,
+    "lat": 41.3341294,
+    "lon": 19.8009176,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Asllan Rusi",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "passenger_information_display": "no",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10983313239,
+    "lat": 41.3341784,
+    "lon": 19.8009301,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9919851383,
+    "lat": 41.3326202,
+    "lon": 19.7837407,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10996334020,
+    "lat": 41.3326582,
+    "lon": 19.7838627,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Kristaq Mone",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11072010611,
+    "lat": 41.3216665,
+    "lon": 19.8047405,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 256162038,
+    "lat": 32.6238097,
+    "lon": 45.3920025,
+    "tags": {
+      "source": "Landsat imagery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 670005939,
+    "lat": 45.9754819,
+    "lon": -0.0781569,
+    "tags": {
+      "description": "Pyl\u00f4ne m\u00e9tallique 506, support de ligne \u00e9lectrique : Axe et sommet - Point vu en place en 2002",
+      "ele": "133.44",
+      "man_made": "survey_point",
+      "note": "Ne pas d\u00e9placer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Rep\u00e8res_G\u00e9od\u00e9siques#Permanence_des_rep.C3.A8res",
+      "ref": "1615501 - 1",
+      "source": "\u00a9IGN 2010 dans le cadre de la cartographie r\u00e9glementaire",
+      "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=1615501"
+    }
+  },
+  {
+    "type": "node",
+    "id": 469773341,
+    "lat": 51.5306247,
+    "lon": -0.1696716,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "local_ref": "K",
+      "name": "Lord's Cricket Ground",
+      "naptan:AtcoCode": "490009359S",
+      "naptan:Bearing": "S",
+      "naptan:CommonName": "Lords Cricket Ground",
+      "naptan:Indicator": "K",
+      "naptan:Street": "WELLINGTON ROAD",
+      "naptan:verified": "no",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 670005932,
+    "lat": 45.624527,
+    "lon": -0.3158037,
+    "tags": {
+      "description": "Borne en granit grav\u00e9e IGN - Point vu en place en 2003",
+      "ele": "101.21",
+      "man_made": "survey_point",
+      "note": "Ne pas d\u00e9placer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Rep\u00e8res_G\u00e9od\u00e9siques#Permanence_des_rep.C3.A8res",
+      "ref": "1615101 - 1",
+      "source": "\u00a9IGN 2010 dans le cadre de la cartographie r\u00e9glementaire",
+      "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=1615101"
+    }
+  },
+  {
+    "type": "node",
+    "id": 469773340,
+    "lat": 51.5311338,
+    "lon": -0.170488,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "no",
+      "local_ref": "Z",
+      "name": "Lord's Cricket Ground",
+      "naptan:AtcoCode": "490009359N",
+      "naptan:Bearing": "N",
+      "naptan:CommonName": "Lords Cricket Ground",
+      "naptan:Indicator": "Stop A",
+      "naptan:Street": "WELLINGTON ROAD",
+      "naptan:verified": "no",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11119832249,
+    "lat": 41.3254132,
+    "lon": 19.819151,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11189565329,
+    "lat": 41.3253972,
+    "lon": 19.8190356,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Parku Rinia",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297635271,
+    "lat": 41.3188518,
+    "lon": 19.8085084,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 588892512,
+    "lat": 41.3188989,
+    "lon": 19.8085498,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Komuna Parisit",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10304010514,
+    "lat": 41.3262295,
+    "lon": 19.7871443,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11198606332,
+    "lat": 41.3240191,
+    "lon": 19.7886606,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5329339852,
+    "lat": 41.3380206,
+    "lon": 19.7898591,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5329339853,
+    "lat": 41.3379462,
+    "lon": 19.7898313,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Blloku Gintash",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "additional_tags": {
+      "alt_name": "L13/A",
+      "from": "Shkencat e Natyr\u00ebs",
+      "interval": "15",
+      "name": "Bus L13: Tirana e Re (Sensi Orar)",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport:version": "2",
+      "ref": "L13",
+      "route": "bus",
+      "to": "Harry Fultz",
+      "type": "route",
+      "via": "Qend\u00ebr"
+    }
+  }
+]

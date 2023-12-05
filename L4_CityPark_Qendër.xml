@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (583981 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="7892719" visible="true" version="67" changeset="141698291" timestamp="2023-09-24T20:10:24Z" user="donovaly" uid="1730904">
+  <member type="node" ref="5333387625" role="stop"/>
+  <member type="node" ref="5333387626" role="platform"/>
+  <member type="node" ref="5333387623" role="stop"/>
+  <member type="node" ref="5333387624" role="platform"/>
+  <member type="node" ref="5333387622" role="platform"/>
+  <member type="node" ref="5333386819" role="stop"/>
+  <member type="node" ref="5333386820" role="platform"/>
+  <member type="node" ref="5333386817" role="stop"/>
+  <member type="node" ref="5333386818" role="platform"/>
+  <member type="node" ref="5333386815" role="stop"/>
+  <member type="node" ref="5333386816" role="platform"/>
+  <member type="node" ref="5333386813" role="stop"/>
+  <member type="node" ref="5333386814" role="platform"/>
+  <member type="node" ref="5329339852" role="stop"/>
+  <member type="node" ref="5329339853" role="platform"/>
+  <member type="node" ref="5297635252" role="stop"/>
+  <member type="node" ref="4169403691" role="platform"/>
+  <member type="node" ref="5297635250" role="stop"/>
+  <member type="node" ref="5297635251" role="platform"/>
+  <member type="node" ref="5329339851" role="stop"/>
+  <member type="node" ref="4527220389" role="platform"/>
+  <member type="node" ref="10920238058" role="stop"/>
+  <member type="node" ref="10920253564" role="stop"/>
+  <member type="node" ref="10920253566" role="platform"/>
+  <member type="node" ref="10920253567" role="stop"/>
+  <member type="node" ref="10920253570" role="platform"/>
+  <member type="node" ref="10920282404" role="stop"/>
+  <member type="node" ref="10920283006" role="platform"/>
+  <member type="node" ref="10920283008" role="stop"/>
+  <member type="node" ref="10920283010" role="platform"/>
+  <member type="node" ref="10920296237" role="platform"/>
+  <member type="node" ref="10920296239" role="stop"/>
+  <member type="node" ref="10920296243" role="stop"/>
+  <member type="node" ref="10920296244" role="platform"/>
+  <member type="node" ref="7798115485" role="platform"/>
+  <member type="node" ref="10983313239" role="stop"/>
+  <member type="node" ref="5295456415" role="platform"/>
+  <member type="node" ref="5295456414" role="stop"/>
+  <member type="node" ref="5342454642" role=""/>
+  <member type="node" ref="5342454641" role="stop"/>
+  <member type="node" ref="5297635245" role="stop"/>
+  <member type="node" ref="4437431032" role="platform"/>
+  <member type="way" ref="552401217" role=""/>
+  <member type="way" ref="109285557" role=""/>
+  <member type="way" ref="172203769" role=""/>
+  <member type="way" ref="1000827004" role=""/>
+  <member type="way" ref="1000827003" role=""/>
+  <member type="way" ref="733099193" role=""/>
+  <member type="way" ref="1000827002" role=""/>
+  <member type="way" ref="1000827000" role=""/>
+  <member type="way" ref="1000826999" role=""/>
+  <member type="way" ref="1167747810" role=""/>
+  <member type="way" ref="1203305038" role=""/>
+  <member type="way" ref="1203305039" role=""/>
+  <member type="way" ref="172203771" role=""/>
+  <member type="way" ref="531079993" role=""/>
+  <member type="way" ref="37232409" role=""/>
+  <member type="way" ref="37232467" role=""/>
+  <member type="way" ref="735376964" role=""/>
+  <member type="way" ref="735376966" role=""/>
+  <member type="way" ref="676215576" role=""/>
+  <member type="way" ref="552152844" role=""/>
+  <member type="way" ref="173615120" role=""/>
+  <member type="way" ref="37232391" role=""/>
+  <member type="way" ref="126532250" role=""/>
+  <member type="way" ref="552152847" role=""/>
+  <member type="way" ref="173615121" role=""/>
+  <member type="way" ref="37232289" role=""/>
+  <member type="way" ref="732450111" role=""/>
+  <member type="way" ref="999519792" role=""/>
+  <member type="way" ref="1160756439" role=""/>
+  <member type="way" ref="1160184824" role=""/>
+  <member type="way" ref="457941828" role=""/>
+  <member type="way" ref="733053948" role=""/>
+  <member type="way" ref="135174654" role=""/>
+  <member type="way" ref="733399440" role=""/>
+  <member type="way" ref="513846603" role=""/>
+  <member type="way" ref="457941829" role=""/>
+  <member type="way" ref="549166140" role=""/>
+  <member type="way" ref="548351119" role=""/>
+  <member type="way" ref="736331978" role=""/>
+  <member type="way" ref="210192830" role=""/>
+  <member type="way" ref="551904499" role=""/>
+  <member type="way" ref="674420803" role=""/>
+  <member type="way" ref="768892687" role=""/>
+  <member type="way" ref="450756810" role=""/>
+  <member type="way" ref="842597616" role=""/>
+  <member type="way" ref="458859576" role=""/>
+  <member type="way" ref="624724664" role=""/>
+  <member type="way" ref="469773341" role=""/>
+  <member type="way" ref="670005932" role=""/>
+  <member type="way" ref="1207642181" role=""/>
+  <member type="way" ref="458516473" role=""/>
+  <member type="way" ref="1207643109" role=""/>
+  <member type="way" ref="457933451" role=""/>
+  <member type="way" ref="734635059" role=""/>
+  <member type="way" ref="551660469" role=""/>
+  <member type="way" ref="458859561" role=""/>
+  <member type="way" ref="173434427" role=""/>
+  <member type="way" ref="624093873" role=""/>
+  <member type="way" ref="229347215" role=""/>
+  <member type="way" ref="369730253" role=""/>
+  <member type="way" ref="469955585" role=""/>
+  <member type="way" ref="207183401" role=""/>
+  <member type="way" ref="675792897" role=""/>
+  <member type="way" ref="733056809" role=""/>
+  <member type="way" ref="469955584" role=""/>
+  <member type="way" ref="4042287" role=""/>
+  <member type="way" ref="1207645192" role=""/>
+  <member type="way" ref="554002386" role=""/>
+  <member type="way" ref="175334456" role=""/>
+  <member type="way" ref="670005939" role=""/>
+  <member type="way" ref="458859577" role=""/>
+  <member type="node" ref="11200941374" role="platform"/>
+  <member type="node" ref="11200941375" role="stop"/>
+  <member type="node" ref="5295459711" role="platform"/>
+  <member type="node" ref="5295459710" role="stop"/>
+  <tag k="from" v="City Park"/>
+  <tag k="name" v="Bus L4: City Park =&gt; Qendër"/>
+  <tag k="network" v="Tirana Bus"/>
+  <tag k="official_name" v="Linja Nr. 4 &quot;Qendër - QTU - Megatek - City Park&quot;"/>
+  <tag k="operator" v="Bashkia Tiranë"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="L4"/>
+  <tag k="route" v="bus"/>
+  <tag k="short_name" v="QTU;Megatek;City Park;"/>
+  <tag k="to" v="Qendër"/>
+  <tag k="type" v="route"/>
+  <tag k="via" v="Megatek;QTU;Casa Italia"/>
+ </relation>
+</osm>

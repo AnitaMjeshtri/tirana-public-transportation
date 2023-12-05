@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (2557623 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="7517386" visible="true" version="34" changeset="143898373" timestamp="2023-11-11T12:47:41Z" user="donovaly" uid="1730904">
+  <member type="node" ref="5317944805" role="stop"/>
+  <member type="node" ref="4316949918" role="platform"/>
+  <member type="node" ref="5291859738" role="stop"/>
+  <member type="node" ref="5291859737" role="platform"/>
+  <member type="node" ref="5291859736" role="stop"/>
+  <member type="node" ref="5291859735" role="platform"/>
+  <member type="node" ref="5291859734" role="stop"/>
+  <member type="node" ref="5291859733" role="platform"/>
+  <member type="node" ref="5291859731" role="stop"/>
+  <member type="node" ref="5291859730" role="platform"/>
+  <member type="node" ref="5291859729" role="stop"/>
+  <member type="node" ref="5291859728" role="platform"/>
+  <member type="node" ref="5291859727" role="stop"/>
+  <member type="node" ref="5291859726" role="platform"/>
+  <member type="node" ref="5291859725" role="stop"/>
+  <member type="node" ref="5291859724" role="platform"/>
+  <member type="node" ref="10152793570" role="platform"/>
+  <member type="node" ref="11196774758" role="stop"/>
+  <member type="node" ref="11196774757" role="platform"/>
+  <member type="node" ref="11196774758" role="end"/>
+  <member type="way" ref="549712924" role=""/>
+  <member type="way" ref="1193436006" role=""/>
+  <member type="way" ref="1193436008" role=""/>
+  <member type="way" ref="1193436003" role=""/>
+  <member type="way" ref="1193436004" role=""/>
+  <member type="way" ref="547696283" role=""/>
+  <member type="way" ref="463673608" role=""/>
+  <member type="way" ref="472066374" role=""/>
+  <member type="way" ref="463673606" role=""/>
+  <member type="way" ref="472066372" role=""/>
+  <member type="way" ref="463674127" role=""/>
+  <member type="way" ref="472076359" role=""/>
+  <member type="way" ref="725974284" role=""/>
+  <member type="way" ref="726986982" role=""/>
+  <member type="way" ref="730014125" role=""/>
+  <member type="way" ref="680671986" role=""/>
+  <member type="way" ref="173433079" role=""/>
+  <member type="way" ref="547638638" role=""/>
+  <member type="way" ref="459212279" role=""/>
+  <member type="way" ref="174414678" role=""/>
+  <member type="way" ref="735269859" role=""/>
+  <member type="way" ref="470415877" role=""/>
+  <member type="way" ref="676776815" role=""/>
+  <member type="way" ref="478500667" role=""/>
+  <member type="way" ref="841504593" role=""/>
+  <member type="way" ref="841503426" role=""/>
+  <member type="way" ref="1010354453" role=""/>
+  <member type="way" ref="1010354452" role=""/>
+  <member type="node" ref="11296394839" role="stop"/>
+  <member type="node" ref="11296394839" role="start"/>
+  <member type="node" ref="11296330127" role="platform"/>
+  <member type="node" ref="6325159851" role="stop"/>
+  <member type="node" ref="11296330128" role="platform"/>
+  <member type="node" ref="11296330129" role="platform"/>
+  <member type="node" ref="9201258923" role="stop"/>
+  <member type="node" ref="11341114654" role="platform"/>
+  <member type="node" ref="11341114653" role="stop"/>
+  <member type="node" ref="11341114655" role="stop"/>
+  <tag k="from" v="Porcelan"/>
+  <tag k="interval" v="15"/>
+  <tag k="name" v="Bus L11: Porcelan =&gt; Qendër"/>
+  <tag k="network" v="Transporti Publik Urban"/>
+  <tag k="operator" v="Shoqata Kombëtare e Transportit Qytetës"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="L11"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Qendër"/>
+  <tag k="type" v="route"/>
+  <tag k="via" v="Pazari i Ri;Oxhaku;"/>
+ </relation>
+</osm>

@@ -1,0 +1,333 @@
+[
+  {
+    "type": "node",
+    "id": 5354133175,
+    "lat": 41.3127412,
+    "lon": 19.8438268,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5354133176,
+    "lat": 41.31276,
+    "lon": 19.8438024,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Sanatorium",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5348888523,
+    "lat": 41.3147026,
+    "lon": 19.8343892,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1714819984,
+    "lat": 41.3147258,
+    "lon": 19.8344887,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Haki Shehu",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5348888522,
+    "lat": 41.317077,
+    "lon": 19.8330502,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Vilat Gjermane",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318368978,
+    "lat": 41.3188572,
+    "lon": 19.8289356,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4565201312,
+    "lat": 41.3188953,
+    "lon": 19.8289647,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Fiologjiku",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318368977,
+    "lat": 41.3213528,
+    "lon": 19.8257333,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4568928839,
+    "lat": 41.3213708,
+    "lon": 19.8257895,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Liceu Artistik",
+      "network": "Tirana Bus",
+      "opening_hours": "Nov-Dec,Jan-Mar 05:30-23:30; Apr-Oct Mo-Sa 05:00-24:00; Apr-Oct Su 05:00-24:00",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318368976,
+    "lat": 41.3242953,
+    "lon": 19.8251542,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Posta",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295459710,
+    "lat": 41.3294108,
+    "lon": 19.8214282,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295459711,
+    "lat": 41.3294265,
+    "lon": 19.8215096,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "9 Kat\u00ebshet",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358955872,
+    "lat": 33.2506708,
+    "lon": -87.0638829,
+    "tags": {
+      "ele": "138",
+      "gnis:county_id": "073",
+      "gnis:created": "12/01/2003",
+      "gnis:feature_id": "140320",
+      "gnis:state_id": "01",
+      "leisure": "park",
+      "name": "Tannehill State Park"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358955890,
+    "lat": 38.87024,
+    "lon": -76.96441,
+    "tags": {
+      "amenity": "school",
+      "ele": "42",
+      "gnis:county_id": "001",
+      "gnis:created": "04/01/1993",
+      "gnis:edited": "01/22/2008",
+      "gnis:feature_id": "529375",
+      "gnis:state_id": "11",
+      "name": "Randle Highlands Elementary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318368975,
+    "lat": 41.324319,
+    "lon": 19.825098,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295459710,
+    "lat": 41.3294108,
+    "lon": 19.8214282,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3637830883,
+    "lat": 41.3170772,
+    "lon": 19.8329912,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11357330503,
+    "lat": 41.3075834,
+    "lon": 19.8394644,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3637830698,
+    "lat": 41.3111082,
+    "lon": 19.8362621,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3883787737,
+    "lat": 41.3111113,
+    "lon": 19.8363097,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "D\u00ebshmor\u00ebt",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11357348657,
+    "lat": 41.3094042,
+    "lon": 19.8440494,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Nuri Arapi",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1879286397,
+    "lat": 41.309337,
+    "lon": 19.8440434,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5354133175,
+    "lat": 41.3127412,
+    "lon": 19.8438268,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/"
+    }
+  },
+  {
+    "additional_tags": {
+      "colour": "#b99fd6",
+      "from": "Sanatorium",
+      "name": "Bus L8/B: Sanatorium => Qend\u00ebr",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport:version": "2",
+      "ref": "L8B",
+      "route": "bus",
+      "to": "Qend\u00ebr",
+      "type": "route",
+      "via": "Sauk i Ri"
+    }
+  }
+]

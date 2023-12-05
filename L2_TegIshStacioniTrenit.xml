@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (553417 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="7885875" visible="true" version="49" changeset="144119135" timestamp="2023-11-17T01:59:45Z" user="donovaly" uid="1730904">
+  <member type="node" ref="3983790103" role="platform"/>
+  <member type="node" ref="5297403664" role="stop"/>
+  <member type="node" ref="588878901" role="platform"/>
+  <member type="node" ref="5297403665" role="stop"/>
+  <member type="node" ref="3983803723" role="platform"/>
+  <member type="node" ref="5327361709" role="stop"/>
+  <member type="node" ref="5327361710" role="platform"/>
+  <member type="node" ref="5327361712" role="platform"/>
+  <member type="node" ref="5327361713" role="stop"/>
+  <member type="node" ref="5327361714" role="platform"/>
+  <member type="node" ref="5327361716" role="platform"/>
+  <member type="node" ref="5327361717" role="stop"/>
+  <member type="node" ref="6864410479" role="stop"/>
+  <member type="node" ref="11168397701" role="stop"/>
+  <member type="node" ref="11168397702" role="platform"/>
+  <member type="node" ref="5295459710" role="stop"/>
+  <member type="node" ref="5295459711" role="platform"/>
+  <member type="node" ref="10906723060" role="stop"/>
+  <member type="node" ref="10906723061" role="platform"/>
+  <member type="node" ref="11357319493" role="platform"/>
+  <member type="node" ref="11357319494" role="stop"/>
+  <member type="node" ref="3234486549" role="stop"/>
+  <member type="node" ref="11357307258" role="platform"/>
+  <member type="node" ref="10906723060" role="end"/>
+  <member type="node" ref="11357307258" role="start"/>
+  <member type="way" ref="229339618" role=""/>
+  <member type="way" ref="1224662841" role=""/>
+  <member type="way" ref="466541159" role=""/>
+  <member type="way" ref="551640979" role=""/>
+  <member type="way" ref="265787367" role=""/>
+  <member type="way" ref="968593522" role=""/>
+  <member type="way" ref="466541160" role=""/>
+  <member type="way" ref="1093782012" role=""/>
+  <member type="way" ref="1079476937" role=""/>
+  <member type="way" ref="1160819445" role=""/>
+  <member type="way" ref="369072379" role=""/>
+  <member type="way" ref="369072377" role=""/>
+  <member type="way" ref="369072376" role=""/>
+  <member type="way" ref="369072381" role=""/>
+  <member type="way" ref="369072378" role=""/>
+  <member type="way" ref="354377885" role=""/>
+  <member type="way" ref="354377885" role=""/>
+  <member type="way" ref="317208519" role=""/>
+  <member type="way" ref="317208525" role=""/>
+  <member type="way" ref="317219734" role=""/>
+  <member type="way" ref="359111743" role=""/>
+  <member type="way" ref="359111736" role=""/>
+  <member type="way" ref="265985525" role=""/>
+  <member type="way" ref="654074693" role=""/>
+  <member type="way" ref="654074692" role=""/>
+  <member type="way" ref="672818529" role=""/>
+  <member type="way" ref="672818521" role=""/>
+  <member type="way" ref="672818525" role=""/>
+  <member type="way" ref="317219724" role=""/>
+  <member type="way" ref="551660468" role=""/>
+  <member type="way" ref="265987913" role=""/>
+  <member type="way" ref="233519316" role=""/>
+  <member type="way" ref="317219726" role=""/>
+  <member type="way" ref="726866095" role=""/>
+  <member type="way" ref="174610643" role=""/>
+  <member type="way" ref="1212026459" role=""/>
+  <member type="way" ref="173186024" role=""/>
+  <member type="way" ref="1123121879" role=""/>
+  <member type="way" ref="1123121882" role=""/>
+  <member type="way" ref="23819938" role=""/>
+  <member type="way" ref="551640972" role=""/>
+  <member type="way" ref="173186030" role=""/>
+  <member type="way" ref="173186017" role=""/>
+  <member type="way" ref="458711312" role=""/>
+  <member type="way" ref="458516518" role=""/>
+  <member type="way" ref="733048022" role=""/>
+  <member type="way" ref="458516551" role=""/>
+  <member type="way" ref="458516554" role=""/>
+  <member type="way" ref="458516584" role=""/>
+  <member type="way" ref="458516557" role=""/>
+  <member type="way" ref="733048023" role=""/>
+  <member type="way" ref="469773338" role=""/>
+  <member type="way" ref="458516595" role=""/>
+  <member type="way" ref="458516589" role=""/>
+  <member type="way" ref="1198776209" role=""/>
+  <member type="way" ref="458516562" role=""/>
+  <member type="way" ref="674375209" role=""/>
+  <member type="way" ref="458859561" role=""/>
+  <member type="way" ref="173434427" role=""/>
+  <member type="way" ref="624093873" role=""/>
+  <member type="way" ref="229347215" role=""/>
+  <member type="way" ref="369730253" role=""/>
+  <member type="way" ref="469955585" role=""/>
+  <member type="way" ref="207183401" role=""/>
+  <member type="way" ref="675792897" role=""/>
+  <member type="way" ref="733056809" role=""/>
+  <member type="way" ref="469955584" role=""/>
+  <member type="way" ref="670005927" role=""/>
+  <member type="way" ref="4042317" role=""/>
+  <member type="way" ref="672498673" role=""/>
+  <member type="way" ref="736314581" role=""/>
+  <member type="way" ref="459205955" role=""/>
+  <member type="way" ref="673551134" role=""/>
+  <member type="way" ref="549320766" role=""/>
+  <member type="way" ref="458516547" role=""/>
+  <member type="way" ref="458516548" role=""/>
+  <member type="way" ref="674633068" role=""/>
+  <tag k="bus" v="yes"/>
+  <tag k="from" v="TEG (Tirana East Gate)"/>
+  <tag k="name" v="Bus L2: TEG =&gt;Ish Stacioni i Trenit"/>
+  <tag k="network" v="Tirana Bus"/>
+  <tag k="official_name" v="Linja Nr. 2 &quot;Teg - Sauk i Vjetër - Kopshti Zoologjik - Ish Stacioni i Trenit&quot;"/>
+  <tag k="operator" v="Bashkia Tiranë"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="L2"/>
+  <tag k="route" v="bus"/>
+  <tag k="short_name" v="TEG"/>
+  <tag k="to" v="Barrikadat (afër ish Stacionit të Trenit)"/>
+  <tag k="type" v="route"/>
+  <tag k="via" v="Sauk i Vjetër;Kopshti Zoologjik"/>
+ </relation>
+</osm>

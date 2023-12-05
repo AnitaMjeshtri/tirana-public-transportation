@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (3390561 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="7877097" visible="true" version="61" changeset="141700642" timestamp="2023-09-24T21:14:43Z" user="donovaly" uid="1730904">
+  <member type="node" ref="5321869060" role="stop"/>
+  <member type="node" ref="5321869061" role="platform"/>
+  <member type="node" ref="6328424762" role="platform"/>
+  <member type="node" ref="5321869056" role="stop"/>
+  <member type="node" ref="5321869057" role="platform"/>
+  <member type="node" ref="5321869054" role="stop"/>
+  <member type="node" ref="5321869055" role="platform"/>
+  <member type="node" ref="5295865916" role="stop"/>
+  <member type="node" ref="5295865917" role="platform"/>
+  <member type="node" ref="5295865918" role="stop"/>
+  <member type="node" ref="5295865919" role="platform"/>
+  <member type="node" ref="5295865920" role="stop"/>
+  <member type="node" ref="5295866221" role="platform"/>
+  <member type="node" ref="5305977629" role="stop"/>
+  <member type="node" ref="4216282511" role="platform"/>
+  <member type="node" ref="5305977628" role="stop"/>
+  <member type="node" ref="4216274636" role="platform"/>
+  <member type="node" ref="5297635245" role="stop"/>
+  <member type="node" ref="4437431032" role="platform"/>
+  <member type="node" ref="5321869052" role="stop"/>
+  <member type="node" ref="5321869053" role="platform"/>
+  <member type="node" ref="5321869050" role="stop"/>
+  <member type="node" ref="5321869051" role="platform"/>
+  <member type="node" ref="5297635272" role="stop"/>
+  <member type="node" ref="4391562467" role="platform"/>
+  <member type="node" ref="10943149493" role="stop"/>
+  <member type="node" ref="6338055442" role="stop"/>
+  <member type="node" ref="11002519162" role="platform"/>
+  <member type="node" ref="6328424761" role="stop"/>
+  <member type="node" ref="11147141103" role="stop"/>
+  <member type="node" ref="11147141102" role="platform"/>
+  <member type="node" ref="10943149494" role="platform"/>
+  <member type="node" ref="11198606316" role="platform"/>
+  <member type="node" ref="11198606315" role="stop"/>
+  <member type="node" ref="5306289767" role="platform"/>
+  <member type="node" ref="5306289766" role="stop"/>
+  <member type="node" ref="11216247691" role="platform"/>
+  <member type="node" ref="11216247690" role="stop"/>
+  <member type="node" ref="5061775464" role="stop"/>
+  <member type="node" ref="11216283057" role="platform"/>
+  <member type="node" ref="11216295136" role="platform"/>
+  <member type="node" ref="11216299237" role="stop"/>
+  <member type="node" ref="5321869060" role="start"/>
+  <member type="node" ref="11216299237" role="end"/>
+  <member type="way" ref="375373948" role=""/>
+  <member type="way" ref="173507042" role=""/>
+  <member type="way" ref="459205894" role=""/>
+  <member type="way" ref="674207422" role=""/>
+  <member type="way" ref="459205917" role=""/>
+  <member type="way" ref="459205903" role=""/>
+  <member type="way" ref="459205907" role=""/>
+  <member type="way" ref="459205929" role=""/>
+  <member type="way" ref="674207426" role=""/>
+  <member type="way" ref="173255613" role=""/>
+  <member type="way" ref="174943111" role=""/>
+  <member type="way" ref="459205945" role=""/>
+  <member type="way" ref="434715511" role=""/>
+  <member type="way" ref="459205947" role=""/>
+  <member type="way" ref="459205860" role=""/>
+  <member type="way" ref="459205955" role=""/>
+  <member type="way" ref="673551134" role=""/>
+  <member type="way" ref="549320766" role=""/>
+  <member type="way" ref="674597421" role=""/>
+  <member type="way" ref="459205958" role=""/>
+  <member type="way" ref="551660470" role=""/>
+  <member type="way" ref="765818516" role=""/>
+  <member type="way" ref="173191513" role=""/>
+  <member type="way" ref="670005939" role=""/>
+  <member type="way" ref="458859577" role=""/>
+  <member type="way" ref="553464729" role=""/>
+  <member type="way" ref="469927077" role=""/>
+  <member type="way" ref="624724664" role=""/>
+  <member type="way" ref="469773341" role=""/>
+  <member type="way" ref="670005932" role=""/>
+  <member type="way" ref="1207642181" role=""/>
+  <member type="way" ref="458516473" role=""/>
+  <member type="way" ref="1207643109" role=""/>
+  <member type="way" ref="458516610" role=""/>
+  <member type="way" ref="173997355" role=""/>
+  <member type="way" ref="172206695" role=""/>
+  <member type="way" ref="295121396" role=""/>
+  <member type="way" ref="295121392" role=""/>
+  <member type="way" ref="458689221" role=""/>
+  <member type="way" ref="172206694" role=""/>
+  <member type="way" ref="1077670079" role=""/>
+  <member type="way" ref="738967165" role=""/>
+  <member type="way" ref="458711307" role=""/>
+  <member type="way" ref="548366203" role=""/>
+  <member type="way" ref="674626552" role=""/>
+  <member type="way" ref="458711302" role=""/>
+  <member type="way" ref="458711308" role=""/>
+  <member type="way" ref="458711304" role=""/>
+  <member type="way" ref="173184647" role=""/>
+  <member type="way" ref="458711303" role=""/>
+  <member type="way" ref="584386536" role=""/>
+  <member type="way" ref="45559009" role=""/>
+  <member type="way" ref="624942140" role=""/>
+  <member type="way" ref="627968698" role=""/>
+  <member type="way" ref="438792002" role=""/>
+  <member type="way" ref="459473471" role=""/>
+  <member type="way" ref="459577949" role=""/>
+  <member type="way" ref="624942272" role=""/>
+  <member type="way" ref="1210331732" role=""/>
+  <member type="way" ref="624942277" role=""/>
+  <member type="way" ref="562022013" role=""/>
+  <member type="way" ref="562022058" role=""/>
+  <member type="way" ref="993603463" role=""/>
+  <member type="way" ref="562022015" role=""/>
+  <member type="way" ref="675382860" role=""/>
+  <member type="way" ref="551034612" role=""/>
+  <member type="way" ref="519024350" role=""/>
+  <member type="way" ref="731137258" role=""/>
+  <member type="way" ref="173207953" role=""/>
+  <member type="way" ref="550860164" role=""/>
+  <member type="way" ref="1210628606" role=""/>
+  <tag k="colour" v="#f03c2c"/>
+  <tag k="from" v="Allias"/>
+  <tag k="interval" v="20"/>
+  <tag k="name" v="Bus L1/A: Allias =&gt; Selitë"/>
+  <tag k="network" v="Tirana Bus"/>
+  <tag k="official_name" v="Linja Nr. 1 &quot;Allias - Ish Stacioni i Trenit - Qendër - Kristal - Selitë&quot;"/>
+  <tag k="operator" v="Bashkia Tiranë"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="L1A"/>
+  <tag k="route" v="bus"/>
+  <tag k="short_name" v="Selitë;Allias"/>
+  <tag k="to" v="Selitë"/>
+  <tag k="type" v="route"/>
+  <tag k="via" v="Ish-Stacioni i Trenit"/>
+ </relation>
+</osm>

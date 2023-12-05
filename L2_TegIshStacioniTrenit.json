@@ -1,0 +1,436 @@
+[
+  {
+    "type": "node",
+    "id": 3983790103,
+    "lat": 41.322835,
+    "lon": 19.8200981,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Piramida",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297403664,
+    "lat": 41.3179712,
+    "lon": 19.8216192,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 588878901,
+    "lat": 41.3180101,
+    "lon": 19.8217906,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "name": "Rektorati",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5297403665,
+    "lat": 41.3192214,
+    "lon": 19.8182414,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3983803723,
+    "lat": 41.319165,
+    "lon": 19.8182363,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Libri Universitar",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361709,
+    "lat": 41.3125749,
+    "lon": 19.8147315,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361710,
+    "lat": 41.3125384,
+    "lon": 19.8147601,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Diga",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361712,
+    "lat": 41.3091881,
+    "lon": 19.8109762,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Kopshti Zoologjik",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361713,
+    "lat": 41.3053167,
+    "lon": 19.8157961,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361714,
+    "lat": 41.3053323,
+    "lon": 19.8158076,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Liqeni That\u00eb",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361716,
+    "lat": 41.3034154,
+    "lon": 19.8366322,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "no",
+      "name": "Selim Brahja",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327361717,
+    "lat": 41.2829719,
+    "lon": 19.8584658,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6864410479,
+    "lat": 41.3228267,
+    "lon": 19.8199826,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11168397701,
+    "lat": 41.3174076,
+    "lon": 19.8148314,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track;",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11168397702,
+    "lat": 41.3174035,
+    "lon": 19.8148902,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Petronini Luarasi",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295459710,
+    "lat": 41.3294108,
+    "lon": 19.8214282,
+    "tags": {
+      "bus": "yes",
+      "source": "bing;mapbox-satellite;survey;knowledge;local-info;gps-track",
+      "source_ref:url": "https://www.flickr.com/photos/openstreetmap-albania/",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295459711,
+    "lat": 41.3294265,
+    "lon": 19.8215096,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "9 Kat\u00ebshet",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10906723060,
+    "lat": 41.3353261,
+    "lon": 19.8180433,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10906723061,
+    "lat": 41.3353395,
+    "lon": 19.8181239,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Barrikadat",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11357319493,
+    "lat": 41.3070103,
+    "lon": 19.8134078,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Rruga Peti",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11357319494,
+    "lat": 41.3069749,
+    "lon": 19.8133801,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3234486549,
+    "lat": 41.3033544,
+    "lon": 19.8365975,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11357307258,
+    "lat": 41.2829949,
+    "lon": 19.8584271,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "TEG (Tirana East Gate)",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10906723060,
+    "lat": 41.3353261,
+    "lon": 19.8180433,
+    "tags": {
+      "bus": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11357307258,
+    "lat": 41.2829949,
+    "lon": 19.8584271,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "TEG (Tirana East Gate)",
+      "network": "Tirana Bus",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 968593522,
+    "lat": 55.375917,
+    "lon": 9.259782,
+    "tags": {
+      "addr:city": "Sommersted",
+      "addr:country": "DK",
+      "addr:housenumber": "35",
+      "addr:municipality": "Haderslev",
+      "addr:place": "\u00d8rsted",
+      "addr:postcode": "6560",
+      "addr:street": "\u00d8rstedvej",
+      "osak:identifier": "0a3f508c-d549-32b8-e044-0003ba298018",
+      "source": "Danmarks Adresseregister"
+    }
+  },
+  {
+    "type": "node",
+    "id": 469773338,
+    "lat": 51.3448249,
+    "lon": -0.1466012,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "local_ref": "S",
+      "name": "Lordsbury Field",
+      "naptan:AtcoCode": "490009358S",
+      "naptan:Bearing": "S",
+      "naptan:CommonName": "Lordsbury Field",
+      "naptan:Indicator": "Stop S",
+      "naptan:verified": "no",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 670005927,
+    "lat": 45.8651823,
+    "lon": 0.5433008,
+    "tags": {
+      "description": "Borne en granit grav\u00e9e IGN (non retrouv\u00e9 en 2000) - Point non retrouv\u00e9 en 2000",
+      "ele": "189.48",
+      "man_made": "survey_point",
+      "note": "Ne pas d\u00e9placer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Rep\u00e8res_G\u00e9od\u00e9siques#Permanence_des_rep.C3.A8res",
+      "ref": "1614901 - A",
+      "source": "\u00a9IGN 2010 dans le cadre de la cartographie r\u00e9glementaire",
+      "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=1614901"
+    }
+  },
+  {
+    "additional_tags": {
+      "bus": "yes",
+      "from": "TEG (Tirana East Gate)",
+      "name": "Bus L2: TEG =>Ish Stacioni i Trenit",
+      "network": "Tirana Bus",
+      "official_name": "Linja Nr. 2 \"Teg - Sauk i Vjet\u00ebr - Kopshti Zoologjik - Ish Stacioni i Trenit\"",
+      "operator": "Bashkia Tiran\u00eb",
+      "public_transport:version": "2",
+      "ref": "L2",
+      "route": "bus",
+      "short_name": "TEG",
+      "to": "Barrikadat (af\u00ebr ish Stacionit t\u00eb Trenit)",
+      "type": "route",
+      "via": "Sauk i Vjet\u00ebr;Kopshti Zoologjik"
+    }
+  }
+]
