@@ -4,8 +4,9 @@ This repository contains public transportation data of Tirana sourced from OpenS
 ## Usage
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/tirana-public-transportation.git
-   cd tirana-public-transportation
+   git clone git@github.com:AnitaMjeshtri/Tirana_PublicTransportation.git
+or
+   git clone https://github.com/AnitaMjeshtri/Tirana_PublicTransportation.git
 ```
 ## Script Details
 The Python script in this repository performs the following steps:
